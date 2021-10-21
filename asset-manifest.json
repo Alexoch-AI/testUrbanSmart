@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/testUrbanSmart/static/css/main.92e2da37.chunk.css",
-    "main.js": "/testUrbanSmart/static/js/main.9f7bcdcc.chunk.js",
-    "main.js.map": "/testUrbanSmart/static/js/main.9f7bcdcc.chunk.js.map",
+    "main.js": "/testUrbanSmart/static/js/main.2f25f9ea.chunk.js",
+    "main.js.map": "/testUrbanSmart/static/js/main.2f25f9ea.chunk.js.map",
     "runtime-main.js": "/testUrbanSmart/static/js/runtime-main.15a90e38.js",
     "runtime-main.js.map": "/testUrbanSmart/static/js/runtime-main.15a90e38.js.map",
     "static/js/2.374c722d.chunk.js": "/testUrbanSmart/static/js/2.374c722d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.15a90e38.js",
     "static/js/2.374c722d.chunk.js",
     "static/css/main.92e2da37.chunk.css",
-    "static/js/main.9f7bcdcc.chunk.js"
+    "static/js/main.2f25f9ea.chunk.js"
   ]
 }
